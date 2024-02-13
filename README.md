@@ -2,6 +2,8 @@
 
 This is a python script to plot the intermediate layer output of Mistral 7B. When you run the script it will produce a 512x256 image representing the output at every layer of the model. 
 
+![probe_results_layers_20240212_221145](https://github.com/valine/NeuralFlow/assets/14074844/ab939cc2-a5fa-4a1a-8e45-bc2b5741f0e1)
+
 
 # Constants
 There are two file paths you will want to change before running the script:
