@@ -26,6 +26,16 @@ The resolution and structure of this visualization warrant additional explanatio
 
 ![guide](https://github.com/valine/NeuralFlow/assets/14074844/7cf5ad4a-98a7-4ec4-896c-fe4fb5068654)
 
+### Additional discusion and models
+This tool was developed as part of an independent research project. Per the request of a few users of r/locallama the code has been cleaned up and made avaiable in this repo. You can find that original discussion here:
+https://www.reddit.com/r/LocalLLaMA/comments/1ap8mxh/comment/kq4mdk4/?context=3
+
+As a final note, here are a few models I have trained using this visualization as a guide. In my opinion the these models have been trained generalized exceptionally well. 
+https://huggingface.co/valine/OpenPirate
+https://huggingface.co/valine/MoreHuman
+https://huggingface.co/valine/OpenAusten
+https://huggingface.co/valine/OpenSnark
+https://huggingface.co/valine/OpenDracula
 
 # Constants
 There are two file paths you will want to change before running the script:
