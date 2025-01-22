@@ -44,7 +44,7 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(
         model_folder, trust_remote_code=True)
 
-    # The last token of this string will be used to generate the image
+    # The hidden state of the last token of this string will be used to generate the image
     probe_string = "Put a sample string here"
 
     # Probe results is an array so that you can plot the changes to the
